@@ -1,0 +1,175 @@
+.nav_nav {
+   
+    font-family: 'Playfair Display', serif;
+    color: #29325d;
+    padding-left: 8px;
+    padding-right: 15px;
+    
+    margin-top: -25px;
+
+    display: flex;
+    flex-direction: wrap;
+    flex-wrap: wrap ;
+    align-items: center;
+    justify-content: space-between;
+}
+ 
+.ul1 {
+    
+    list-style-type: none;
+    word-spacing: 8px;
+}
+
+div ul li {
+    display: inline-block;
+    
+}
+
+div h1 {
+    font-size: 60px;
+    position: relative;
+    left: 90px;
+}
+
+
+
+.descuentos_1 {
+    display: grid;
+    background-color: #29325d;
+    grid-template-areas: ;
+
+    grid-template-rows: 50px 100px;
+}
+
+.fotos_descuentos {
+ padding-top: 50px;
+
+}
+
+.texto1 {
+    color: white;
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+   
+   }
+
+.subtitulos {
+    color: orangered;
+   
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pie_2 {
+    bottom: 200px;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    background-color: #29325d;
+
+    
+
+    padding-bottom: 150px;
+    border-bottom: 200px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    
+}
+
+.navegador2 {
+    color: white;
+    text-align: center;
+    
+}
+
+.logo_instagram_2 {
+    text-align: center;
+    position: relative;
+    top: 90px;
+    left: 690px;
+}
+
+.navegador2 {
+    color: white;
+    text-align: center;
+    
+    
+}
+
+.mediopago {
+    color: white;
+    text-align: center;
+    position: relative;
+    left: 40px;
+}
+
+.estadocompra {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    right: 90px;
+}
+
+.devoluciones {
+    color: white;
+    text-align: center;
+    position: relative;
+    left: 40px;
+}
+
+.envios {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    right: 90px;
+}
+
+.logo_instagram {
+    text-align: center;
+    position: relative;
+    top: 150px;
+    left: 620px;
+}
+
+li {
+    display: inline;
+    color: white;
+
+    transition-duration: .5s;
+    transition-timing-function: ease;
+    
+}
+
+li:hover{
+    transform: scale(1.06);
+    text-decoration-line: underline;
+    
+    
+}
